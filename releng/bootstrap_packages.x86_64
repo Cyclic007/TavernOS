@@ -1,0 +1,16 @@
+arch-install-scripts
+base
+plasma-desktop
+sudo
+networkmanager
+nano
+konsole
+xorg
+sddm
+blueman
+firefox-developer-edition
+ufw
+tar
+unzip
+kate
+pipewire
